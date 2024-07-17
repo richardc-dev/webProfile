@@ -15,7 +15,23 @@
 }
 .miClaseServicios h2{
     color: white;
+    padding-top: 2%;
+    padding-top: 2%;
 }
 .miClaseImgServicio{
     max-width: 400px; 
+}
+.miClaseContacto{
+    padding: 2% 0 1% 0;
+    background-color: #AEB6BF;
+}
+.miClaseSubir{
+    background-color: #AEB6BF;
+    padding-bottom: 2%;
+}
+.miClaseFooter{
+    background-color: #2C3E50;
+    color: white;
+    font-size: larger;
+    padding: 1% 0 1% 0;
 }
