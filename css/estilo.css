@@ -1,0 +1,21 @@
+.miClaseHeader{
+    background-color: #E2EAF4;
+}
+.miClaseImgAvatar{
+    width: 150px; 
+    height: 150px;
+}
+.miClaseSobreMi{
+    background-color:#85C1E9;
+    padding: 1% 5% 1% 5%;
+}
+.miClaseServicios{
+    background-color: #1B4F72;
+    padding: 1% 5%;
+}
+.miClaseServicios h2{
+    color: white;
+}
+.miClaseImgServicio{
+    max-width: 400px; 
+}
