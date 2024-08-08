@@ -7,7 +7,7 @@ Es proyecto para principiantes en la programacion, ideal para las personas que d
 
 ### Caracteristicas tecnicas de WebProfile 🛠
 - Lenguaje de marcado: HTML5
-- Estilo: CSS3 y Bootstrap
+- Estilo: CSS3 y Bootstrap 5.3.2
 
 #### Estructura del Proyecto  
 ```plaintext
