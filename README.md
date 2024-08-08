@@ -9,13 +9,9 @@ Es proyecto para principiantes en la programacion, ideal para las personas que d
 - Lenguaje de marcado: HTML5
 - Estilo: CSS3 y Bootstrap
 
-#### Estructura 
-
-WebProfile/
-#### Estructura del Proyecto
-
+#### Estructura del Proyecto  
 ```plaintext
-mi-proyecto/
+WebProfile/
 │
 ├── index.html
 ├── css/
