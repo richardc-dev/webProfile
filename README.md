@@ -24,6 +24,8 @@ WebProfile/
 │   └── imgWeb.png
 │   ├── captures/
 │   |   └── cap1.png
+│   |   └── cap2.png
+│   |   └── cap3.png
 └── README.md
 ```
 
