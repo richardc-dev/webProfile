@@ -1,5 +1,9 @@
-.miClaseHeader{
+body{
     background-color: #E2EAF4;
+}
+.miClaseHeader{
+    background-color: #b5cfef;
+    margin: 0 15% 0 15%;
 }
 .miClaseImgAvatar{
     width: 150px; 
@@ -7,11 +11,14 @@
 }
 .miClaseSobreMi{
     background-color:#85C1E9;
-    padding: 1% 5% 1% 5%;
+    padding: 1% 2% 1% 2%;
+    margin: 0 15% 0 15%;
+
 }
 .miClaseServicios{
     background-color: #1B4F72;
-    padding: 1% 5%;
+    padding: 1% 2%;
+    margin: 0 15% 0 15%;
 }
 .miClaseServicios h2{
     color: white;
@@ -22,16 +29,21 @@
     max-width: 400px; 
 }
 .miClaseContacto{
-    padding: 2% 0 1% 0;
+    padding: 2% 0 2% 0;
     background-color: #AEB6BF;
-}
-.miClaseSubir{
-    background-color: #AEB6BF;
-    padding-bottom: 2%;
+    margin: 0 15% 0 15%;
 }
 .miClaseFooter{
     background-color: #2C3E50;
     color: white;
     font-size: larger;
     padding: 1% 0 1% 0;
+}
+.btn-flotante {
+    position: fixed;
+    bottom: 60px;
+    left: 20px;
+    z-index: 1000;
+    border-radius: 50%;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
 }
